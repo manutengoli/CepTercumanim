@@ -1,4 +1,4 @@
-name: Android APK
+: Android APK
 
 on:
   workflow_dispatch:
